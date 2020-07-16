@@ -1,0 +1,112 @@
+.container{
+    margin-bottom: 70px;
+}
+.pic{
+    height: 48px;
+    padding: 2px;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #21B573 0%, #21B573 100%);
+    border-radius: 8px;
+    color: white;
+}
+.color{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.color p{
+    color: darkorange;
+}
+.color h5{
+    color: gray;
+}
+.span{
+    color: #21B573;
+}
+.heading{
+    display: flex;
+    margin-bottom: 70px;
+}
+.heading-pic{
+    margin-left: 100px;
+    width: 80%;
+    height: 100%;
+}
+.col-md-3 .png{
+    width: 100px;
+    height: 100px;
+}
+.middle{
+    display: flex;
+}
+.h3{
+    text-size-adjust: 15px;
+}
+.pic img{
+    height: 100px;
+    width: 80px;
+    margin-left: 60px;
+}
+.middlee{
+    text-align: center;
+}
+.card-footer img{
+    height: 30px;
+    width: 30px;
+    padding: 2px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.try{
+    margin-bottom: 200px;
+}
+.same{
+    box-shadow: 5px 5px 10px rgb(223, 181, 188);
+    border-radius: 10px;
+}
+.same img{
+    padding: 8px;
+}
+.last{
+    display: flex;
+    padding: 0px 300px;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.man-png{
+    height: 100px;
+    width: 100px;
+    margin-right: 40px;
+}
+.finaly{
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+    padding-top: 50px;
+}
+.loss p, b{
+    color: white;
+}
+.raja{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    padding: 70px 30px;
+}
+.row img{
+    height: 100px;
+    width: 100px;
+    padding-left: 25px;
+    margin-bottom: 20px;
+}
+.ff{
+    margin-top: 70px;
+}
+.row h3{
+    color:black;
+}
+.row h6{
+    color: gray;
+}
